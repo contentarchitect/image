@@ -1,0 +1,24 @@
+{
+  "name": "@contentarchitect/image",
+  "version": "0.0.0",
+  "description": "Image block for ContentArchitect",
+  "main": "dist/image.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/contentarchitect/image"
+  },
+  "keywords": [
+    "editor",
+    "image",
+    "upload"
+  ],
+  "author": "Cihad Paksoy <cihadp@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup-plugin-vue": "^5",
+    "rollup-plugin-vue-inline-svg": "^1.1.1"
+  }
+}
