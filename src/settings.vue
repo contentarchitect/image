@@ -10,7 +10,7 @@
 </template>
 
 <script>
-import { CssGrid, Button } from "@contentarchitect/core"
+import { CssGrid, Button } from "@contentarchitect/editor"
 
 export default {
 	components: { CssGrid, "v-button": Button },

@@ -1,4 +1,4 @@
-import { Block, Util } from "@contentarchitect/core"
+import { Block, Util } from "@contentarchitect/editor"
 import view from "./view.vue"
 import settings from "./settings.vue"
 import icon from "./icon.svg"

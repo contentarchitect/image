@@ -15,6 +15,8 @@ export default {
 	},
 	plugins: [
 		svg(),
-		vue()
+		vue({
+			isWebComponent: true
+		})
 	]
 }

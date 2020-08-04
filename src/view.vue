@@ -61,7 +61,7 @@
 </template>
 
 <script>
-import { UiButton, EditDirective, SelectImage } from "@contentarchitect/core"
+import { UiButton, EditDirective, SelectImage } from "@contentarchitect/editor"
 
 export default {
 	props: ['value'],
